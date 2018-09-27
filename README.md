@@ -1,2 +1,2 @@
 # Hello-randy
-browsergit test repository 
+browser git test repository 
